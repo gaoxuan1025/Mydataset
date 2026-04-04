@@ -10,3 +10,4 @@ Diff.zip filter=lfs diff=lfs merge=lfs -text
 checkpoint0033_4scale.pth filter=lfs diff=lfs merge=lfs -text
 trash.zip filter=lfs diff=lfs merge=lfs -text
 dataset.zip filter=lfs diff=lfs merge=lfs -text
+train.zip filter=lfs diff=lfs merge=lfs -text
