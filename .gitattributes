@@ -12,3 +12,4 @@ train.zip filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 sd-vae-ft-ema.zip filter=lfs diff=lfs merge=lfs -text
 stl1.zip filter=lfs diff=lfs merge=lfs -text
+stl.zip filter=lfs diff=lfs merge=lfs -text
